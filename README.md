@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <!--
 **Mariam-Nazlawy/Mariam-nazlawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
