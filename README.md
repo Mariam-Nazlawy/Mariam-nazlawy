@@ -17,7 +17,7 @@
 - :school: I am a `Senior` at [Faculty of Computers & Artificial Intelligence](http://newecom.fci-cu.edu.eg/#/) at [Cairo University](https://cu.edu.eg/Home).
 - :trophy: 2x `ECPC` Participations.  
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`.
+- :computer: I am a competitive programmer at [`Codeforces`](https://codeforces.com/profile/Mariam_Nazlawy).
 - :student: I’m currently learning `Computer Vision` and `NLP`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `part-time job opportunity`, this is [MY LinkedIn](https://www.linkedin.com/in/mariam-nzlawy-5bb616205/).
